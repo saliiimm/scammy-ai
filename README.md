@@ -4,6 +4,7 @@
 The AI part of a scammer detector project using python,scraperAPI and Vader
 
 
+![Logo](https://firebasestorage.googleapis.com/v0/b/my-portfolio-27db3.appspot.com/o/Screenshot%202025-04-10%20094523.png?alt=media&token=e3226c18-1c62-4731-a2fc-f694844ef65d)
 
 
 ## Related
